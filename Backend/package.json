@@ -1,0 +1,25 @@
+{
+  "name": "caarya-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start"
+  },
+  "author": "Raghav Dwivedi",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "httpie": "^1.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.0",
+    "mongoose": "^5.13.7",
+    "node-fetch": "^2.6.1",
+    "swapi-node": "^0.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

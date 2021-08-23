@@ -1,0 +1,58 @@
+.footer {
+    background-image:url('https://www.indiewire.com/wp-content/uploads/2012/10/movie-theater-10152012.jpg');
+    color: white;
+    background-size: cover;
+    height: 60vh;
+}
+
+.footer_head {
+    font-size: 40px;
+    font-family: oswald;
+    text-transform: capitalize;
+    text-align: center;
+    line-height: 3rem;
+    margin-bottom: 3rem;
+}
+.nav_link {
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem 1.5rem 0.5rem 0;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.section_head {
+    color: #A59678;
+    text-align: center;
+    font-family: oswald;
+}
+
+.left_align{
+    text-align: left;
+    
+}
+
+.width{
+    max-width: 500px;
+}
+
+.footer_flex_1000{
+    flex:1;
+    margin: 1rem;
+}
+
+.footer_flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}

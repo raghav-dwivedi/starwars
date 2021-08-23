@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "public",
+        "MONGO_PASSWORD": "usKItAIFcWpKT9jg",
+        "MONGO_DEFAULT_DATABASE": "swmovies",
+        "JWTSecret": "dsfhjkfhdsiuweb234294BKNDSF98y32r5hKNB*#@WYrbi23k"
+    }
+}

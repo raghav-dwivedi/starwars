@@ -1,0 +1,48 @@
+#card-container{
+    width:90%;
+    max-width: 1200px;
+    color:white;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 250px;
+    height: 600px;
+    margin: 0.5rem;
+    padding: 0.2rem;
+}
+
+.title{
+    text-transform: uppercase;
+    padding: 1rem 0 1rem 0;
+    height: 50px;
+}
+
+.movie-name{
+    font-size:1.2rem;
+}
+
+.director{
+    text-align: right;
+    padding: 0.5rem 0 0.5rem 0;
+}
+
+.image-poster{
+    width: 250px;
+    /* height: 100px; */
+}
+
+.get-tickets-btn{             
+    color: white;
+    background-color: black;
+    border: red 1px solid;
+    outline: none;
+    padding: 0.2rem 1rem 0.2rem 1rem;
+    position: absolute;
+}
+
+.card-body{
+    display: block;
+}

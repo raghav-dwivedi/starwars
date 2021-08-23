@@ -1,0 +1,37 @@
+.landing-container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  background-image: url("https://media.istockphoto.com/photos/striped-box-with-popcorn-picture-id1076588860?k=6&m=1076588860&s=612x612&w=0&h=7u4REVpmK0zRLdz_R8ArgUPr3xpOWLr3IyL15_Fp-xc=");
+  background-size: cover;
+}
+
+.landing-contianer-2 {
+  max-width: 1200px;
+  padding-left: 10rem;
+}
+
+#small-head,
+#big-head {
+  text-transform: uppercase;
+}
+
+#small-head {
+  color: red;
+}
+
+#big-head {
+  color: white;
+  font-size: 7rem;
+}
+
+#showtime-btn {
+  padding: 1rem;
+  background: red;
+  color: white;
+  outline: none;
+  border: none;
+  text-transform: uppercase;
+}
